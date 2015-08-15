@@ -1,7 +1,7 @@
 {
   "name": "kickstart-restify",
   "description": "kickstart module to start a restify web server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/AndreasPizsa/kickstart-restify",
   "author": {
     "name": "Andreas Pizsa",
@@ -39,9 +39,9 @@
   ],
   "peerDependencies": {
     "kickstarting":"*",
-    "coffee-script": "^1.8.0",
-    "lodash": "^2.4.1",
-    "nconf": "^0.6.9",
-    "restify": "^2.8.3"
+    "coffee-script": ">=1.8.0",
+    "lodash": ">=2.4.1",
+    "nconf": ">=0.6.9",
+    "restify": ">=2.8.3"
   }
 }
