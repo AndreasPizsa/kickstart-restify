@@ -28,7 +28,7 @@
     "test": "mocha -R spec"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "5.2.0",
     "verb": ">= 0.2.6"
   },
   "keywords": [
